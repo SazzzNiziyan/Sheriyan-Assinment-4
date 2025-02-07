@@ -6,7 +6,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: #ededed;
-  height: 110vh;
+  height: 120vh;
   width: 100vw;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -53,7 +53,7 @@ nav a {
   background-color: rgb(181, 183, 183);
   display: flex;
   flex-direction: column;
-  height: 90vh;
+  height: 100vh;
   width: 15vw;
   padding-left: 20px;
 }
