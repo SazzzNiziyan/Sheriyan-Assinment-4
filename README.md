@@ -59,4 +59,3 @@ License
 
 Contact
 - Repo owner: @SazzzNiziyan
-- Want me to push this README into the repo? Tell me and I’ll create a branch and open a commit for you.
