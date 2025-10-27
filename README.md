@@ -54,8 +54,5 @@ Contributing
 - This is a simple static assignment — for tweaks, open a PR with a short description and I'll review.
 - Prefer incremental, focused changes (styling changes in separate PRs from content changes).
 
-License
-- No license specified. If you want this repo shared, consider adding an open-source license such as MIT.
-
 Contact
 - Repo owner: @SazzzNiziyan
