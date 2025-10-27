@@ -9,6 +9,7 @@ A sleek, minimal single-page web assignment showcasing layout, styling and respo
 Demo
 - Quick local preview: open index.html in your browser
 - Visit the link:
+  [click here](https://sheriyan-assinment4.vercel.app/)
 
 Why this README is here
 - I reviewed the repository contents (index.html, style.css, icons8-cup-ios image) and created a modern README to give the project a clean presentation and usage instructions.
